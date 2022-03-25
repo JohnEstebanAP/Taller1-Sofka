@@ -48,4 +48,4 @@ The main class Gym.java. It is the starting point of the program, which is in ch
 
 # IMAGENE
 
-<a href="url"><img src="https://github.com/JohnEstebanAP/Taller1-Sofka/blob/main/Taller.png?raw=true" align="center" ></a>
+<a href="url"><img src="https://github.com/JohnEstebanAP/Taller1-Sofka/blob/main/Taller_1.png?raw=true" align="center" ></a>
