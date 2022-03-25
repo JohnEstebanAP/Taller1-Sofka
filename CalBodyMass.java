@@ -25,9 +25,9 @@ public class CalBodyMass {
   //Calculate the body mass status (normal, overweight, obese).
   public String getStatus(){
 
-    if(bodyMass >= 18.5  && bodyMass <= 24.9){
+    if(bodyMass >= 18.5  && bodyMass < 25){
       status = "Nolmal";
-    }else if(bodyMass >= 25  && bodyMass <=29.9){
+    }else if(bodyMass >= 25  && bodyMass <30){
       status = "Overweight";
     }else if(bodyMass >= 30){
       status = "Obese";
