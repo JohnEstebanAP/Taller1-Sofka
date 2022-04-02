@@ -46,6 +46,6 @@ The main class Gym.java. It is the starting point of the program, which is in ch
 
 * Finally there is the Fruit.java class which is a general Mold of what would be a Fruit object with its corresponding properties names, color, weight, etc.
 
-# IMAGENE
+# IMAGES
 
 <a href="url"><img src="https://github.com/JohnEstebanAP/Taller1-Sofka/blob/main/Taller_1.png?raw=true" align="center" ></a>
